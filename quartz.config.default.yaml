@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: qnaiv.github.io/quartz
+  baseUrl: qnaiv.me
   ignorePatterns:
     - private
     - templates
